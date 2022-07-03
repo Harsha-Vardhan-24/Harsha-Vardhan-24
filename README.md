@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsha-Vardhan-24
-- 👀 I’m interested in learning about new things in TECH
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in learning about new things...
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on any projects that I can build
 - 📫 How to reach me via javvajiharshavardhan.24@pm.me
 
