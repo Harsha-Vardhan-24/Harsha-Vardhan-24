@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Html, CSS, Js, React.js, Node.js**
+- 💬 Ask me about **Html, CSS, Javascript, React.js, Node.js**
 
 - 📫 How to reach me **javvajiharshavardhan.24@gmail.com**
 
